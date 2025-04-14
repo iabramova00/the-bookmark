@@ -1,0 +1,2 @@
+echo "✅ Commit complete!"
+echo "🔔 Don't forget to 'git push' your changes to the remote."
